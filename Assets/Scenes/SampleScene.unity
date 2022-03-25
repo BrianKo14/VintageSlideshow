@@ -325,8 +325,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -24.33, y: -18.6}
-  m_SizeDelta: {x: 1293.66, y: 731.92}
+  m_AnchoredPosition: {x: 0.07, y: 0.92}
+  m_SizeDelta: {x: 1249.72, y: 766.09}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &206812119
 MonoBehaviour:
@@ -499,7 +499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.16078432}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.28235295}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -754,13 +754,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53ce85d80148fae4c9e996eebb0dae8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RedX: 0
+  RedX: 1.5
   RedY: 0
   GreenX: 0
   GreenY: 0
   BlueX: 0
   BlueY: 0
-  FishEyeDistortion: -0.25
+  FishEyeDistortion: -0.29
   material: {fileID: 2100000, guid: 743f58bcc9ba1834ab182a96c72f3f94, type: 2}
 --- !u!82 &1258332365
 AudioSource:

@@ -16,7 +16,7 @@ public class main_script : MonoBehaviour
     void Start()
     {
 
-        foreach (string file in System.IO.Directory.GetFiles("/Users/briankovo/Desktop/TripPics"))
+        foreach (string file in System.IO.Directory.GetFiles("."))
         {
             if (!file.Contains("DS_Store")) paths.Add(file);
         }
@@ -46,8 +46,6 @@ public class main_script : MonoBehaviour
         Texture2D texture = new Texture2D(2, 2); 
         texture.LoadImage(rawData);
         rawImg.texture = texture;
-
-        Debug.Log("Image loaded.");
     }
 
     void playAudio() {

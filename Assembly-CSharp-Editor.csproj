@@ -37,9 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/ImageEffectFilters/Shaders/Editor/ImageEffectFilter_Editor.cs" />
+     <Compile Include="Assets/Cinema Suite/About/Editor/ProductInfo.cs" />
      <Compile Include="Assets/Cinema Suite/About/Editor/CinemaSuiteWelcome.cs" />
      <Compile Include="Assets/Cinema Suite/Cinema Themes/Editor/CinemaThemesWindow.cs" />
-     <Compile Include="Assets/Cinema Suite/About/Editor/ProductInfo.cs" />
      <None Include="Assets/Cinema Suite/About/Editor/Resources/BaseProductInfo.xml" />
      <None Include="Assets/Cinema Suite/Cinema Themes/Editor/Resources/CinemaThemesInstalledProductInfo.xml" />
     <Reference Include="UnityEngine">

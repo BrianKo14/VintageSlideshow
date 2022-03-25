@@ -79,19 +79,19 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2490}
+      Script: {instanceID: 2492}
     - Class: 114
-      Script: {instanceID: 2832}
+      Script: {instanceID: 2834}
     - Class: 114
-      Script: {instanceID: 2894}
+      Script: {instanceID: 2896}
     - Class: 114
-      Script: {instanceID: 3084}
+      Script: {instanceID: 3086}
     - Class: 114
-      Script: {instanceID: 6554}
+      Script: {instanceID: 6562}
     - Class: 114
-      Script: {instanceID: 7146}
+      Script: {instanceID: 7154}
     - Class: 114
-      Script: {instanceID: 8744}
+      Script: {instanceID: 8752}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1046,4 +1046,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/briankovo/Desktop/ProjectorSlideshow.app
+  playerPath: /Users/briankovo/Desktop/TripPics/ProjectorSlideshow.app
