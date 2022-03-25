@@ -39,9 +39,11 @@
      <Compile Include="Assets/ChromaticAberration/ChromaticAberration.cs" />
      <Compile Include="Assets/main_script.cs" />
      <None Include="Assets/_www.unityassetcollection.com.txt" />
+     <None Include="Assets/Cinema Suite/Documents/CinemaThemesReadMe.txt" />
      <None Include="Assets/ImageEffectFilters/Shaders/ImageEffectFilter.shader" />
      <None Include="Assets/ImageEffectFilters/About.txt" />
      <None Include="Assets/ChromaticAberration/ChromaticAberration.shader" />
+     <None Include="Assets/Cinema Suite/Documents/CinemaThemesChangeLog.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.2.16f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

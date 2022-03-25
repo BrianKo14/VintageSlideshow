@@ -455,6 +455,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Cinema Suite/About/Editor/CinemaSuiteWelcome.cs"
+"Assets/Cinema Suite/About/Editor/ProductInfo.cs"
+"Assets/Cinema Suite/Cinema Themes/Editor/CinemaThemesWindow.cs"
 "Assets/ImageEffectFilters/Shaders/Editor/ImageEffectFilter_Editor.cs"
 -langversion:9.0
 

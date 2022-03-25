@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Test
   m_Shader: {fileID: 4800000, guid: c6efa50870164184d88db53c40578140, type: 3}
-  m_ShaderKeywords: EFFECT_KERNEL_MATRIX ETC1_EXTERNAL_ALPHA
+  m_ShaderKeywords: EFFECT_COLOR_MATRIX
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -23,9 +23,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
-    - Effect: 1
-    - _FxBlend: 1
+    - Effect: 2
+    - _FxBlend: 0.146
     - _KMul: 1
     m_Colors:
     - _0123: {r: -1, g: -1, b: -1, a: -1}
@@ -35,7 +36,7 @@ Material:
     - _C1: {r: 1, g: 1, b: 1, a: 0}
     - _C2: {r: 1, g: 1, b: 1, a: 0}
     - _C3: {r: -1, g: -1, b: -1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 0, a: 1}
     - _HSVC: {r: 0, g: 1, b: 1, a: 1}
-    - _PixDistMulAdd: {r: 2, g: 2, b: 1.25, a: -0.25}
+    - _PixDistMulAdd: {r: 7.43, g: 7.43, b: 1.25, a: -0.25}
   m_BuildTextureStacks: []
